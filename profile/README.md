@@ -9,15 +9,23 @@ Seja muito bem-vindo ao repositório oficial da **BIT Analytics** no GitHub!
 Somos especialistas em **transformação digital através da análise de dados**.  
 Nosso objetivo é desenvolver soluções inteligentes, escaláveis e orientadas por dados para impulsionar o seu negócio.
 
-- 🌐 Site: [bitanalytics.dev.br](https://bitanalytics.dev.br)
-- 📷 Instagram: [@bitanalytics](https://www.instagram.com/bitanalytics/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/bit-analytics)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bitanalytics/)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bitanalytics.dev.br)
 
-## O que Fazemos
 
-- Análise e visualização de dados
-- Desenvolvimento de IA
-- Consultoria em BI/BA
-- Soluções em RPA
+🎯 Nossa Expertise:
+• Ciência de Dados e Machine Learning
+• Modelagem Estatística e Analytics
+• Business Intelligence e Dashboards
+• Product Management e Transformação Digital
+• RPA, scraping
+
+🏆 Destaques:
+• Premiados no Inovalog Suzano (2021)
+• Reconhecida como uma das poucas hard techs da Bahia
+• Membros da AMCHAM Salvador (2023/2024)
+
 
 
 
