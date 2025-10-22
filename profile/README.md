@@ -15,13 +15,16 @@ Nosso objetivo é desenvolver soluções inteligentes, escaláveis e orientadas 
 
 
 🎯 Nossa Expertise:
+
 • Ciência de Dados e Machine Learning
 • Modelagem Estatística e Analytics
 • Business Intelligence e Dashboards
 • Product Management e Transformação Digital
-• RPA, scraping
+• RPA e scraping
 
 🏆 Destaques:
+
+• Startup mapeada em diversas plataformas e mapeada pela ABAS (Associação Baiana de Startups)
 • Premiados no Inovalog Suzano (2021)
 • Reconhecida como uma das poucas hard techs da Bahia
 • Membros da AMCHAM Salvador (2023/2024)
